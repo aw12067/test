@@ -52,6 +52,7 @@ body{
 {
     width: 350px;
     height:350px;
+    display: inline-block;
 }
 #accept
 {
@@ -66,6 +67,7 @@ body{
     float: left;
     width: 40%;
     font-family: "Trirong", serif;
+    color: white;
 }
 #img
 {
