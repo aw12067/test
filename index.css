@@ -108,3 +108,21 @@ body{
     font-style: italic;
     font-weight: 700;
 }
+#heading2
+{    
+    font-variant: small-caps;
+    text-align: center;
+    color: white;
+    text-shadow: 1.5px 1.5px 1.5px red;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+}
+#image
+{
+    color: red;
+}
+#btn
+{
+    margin-top: 20px;
+}
